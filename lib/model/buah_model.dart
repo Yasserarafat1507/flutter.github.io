@@ -27,11 +27,13 @@ var buahModelList = [
     Price: 'Rp 25000 Per Kilo',
     imageAsset: 'assets/img/pisang.jpg',
     imageUrls: [
-      'https://fahum.umsu.ac.id/blog/wp-content/uploads/2024/08/manfaat-pisang-untuk-kesehatan-tubuh.webp',
+      'https://www.mongabay.co.id/wp-content/uploads/2023/09/Pisang-siap-panen-milik-warga-Desa-Klungkung-Kabupaten-Jember-foto-Petrus-Riski.jpeg',
+
       'https://www.mongabay.co.id/wp-content/uploads/2023/09/Pisang-siap-panen-milik-warga-Desa-Klungkung-Kabupaten-Jember-foto-Petrus-Riski.jpeg',
       'https://pict.sindonews.net/dyn/850/pena/news/2022/08/23/34/864087/negaranegara-penghasil-pisang-terbesar-dunia-nomor-9-jadi-makanan-pokok-efd.jpg'
     ],
   ),
+
   BuahModel(
     name: 'Nanas (Pineapple)',
     location: 'Hawaii, Thailand, Filipina, Brasil, dan Indonesia',
@@ -41,10 +43,11 @@ var buahModelList = [
     imageAsset: 'assets/img/nanas.jpg',
     imageUrls: [
       'https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2023/12/12/NANAS-12-3698135359.jpg',
-      'https://parenting.co.id/img/images/nanas%20con.jpg',
-      'https://cdn0-production-images-kly.akamaized.net/DIltC6etiqM_sQ3ZGYzeGtzh9jo=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3573022/original/013028000_1631729447-Ilustrasi_nanas_1.jpg',
+      'https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2023/12/12/NANAS-12-3698135359.jpg',
+      'https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/01/2023/12/12/NANAS-12-3698135359.jpg',
     ],
   ),
+
   BuahModel(
     name: 'Mangga (Mango)',
     location: 'India, Indonesia, Thailand, Filipina, dan Brasil',
@@ -53,11 +56,12 @@ var buahModelList = [
     Price: 'Rp 21.300 Per Kilo',
     imageAsset: 'assets/img/mangga.jpg',
     imageUrls: [
-      'https://gkmdblog.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/2023/12/16193752/Blog-Mangga-Indonsia.jpeg',
+      'https://api-lotte.hollacode.com/api/static/inspirasi/1690283540383-jenis-mangga.png',
       'https://api-lotte.hollacode.com/api/static/inspirasi/1690283540383-jenis-mangga.png',
       'https://akcdn.detik.net.id/visual/2021/07/06/ilustrasi-mangga_169.jpeg?w=650',
     ],
   ),
+
   BuahModel(
     name: 'Jambu Air (Water Apple)',
     location: 'Indonesia, Malaysia, dan Thailand',
@@ -71,6 +75,7 @@ var buahModelList = [
       'https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/222/2024/04/24/IMG-20240424-WA0086-1876310712.jpg',
     ],
   ),
+  
   BuahModel(
     name: 'Durian',
     location: 'Thailand, Malaysia, Indonesia, dan Filipina',
@@ -79,11 +84,12 @@ var buahModelList = [
     Price: 'Rp 52.000 Per Kilo',
     imageAsset: 'assets/img/durian.jpg',
     imageUrls: [
-      'https://embassyworld.org/wp-content/uploads/2024/02/Vietnamese-durian-fruits-1200x600.jpg',
       'https://asset.kompas.com/crops/Zx0qzYqqfhmcuusMVprdWCVtb_4=/77x19:928x586/1200x800/data/photo/2023/02/07/63e209234faff.jpg',
-      'https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/18/whole-and-halved-durian-fruit-high-angle-on-wooden-boards.jpg.rend.hgtvcom.1280.1280.suffix/1702934646286.jpeg',
+      'https://asset.kompas.com/crops/Zx0qzYqqfhmcuusMVprdWCVtb_4=/77x19:928x586/1200x800/data/photo/2023/02/07/63e209234faff.jpg',
+      'https://asset.kompas.com/crops/Zx0qzYqqfhmcuusMVprdWCVtb_4=/77x19:928x586/1200x800/data/photo/2023/02/07/63e209234faff.jpg',
     ],
   ),
+  
   BuahModel(
     name: 'Papaya',
     location: 'Meksiko, Brasil, Indonesia, dan Filipina',
@@ -92,7 +98,7 @@ var buahModelList = [
     Price: 'Rp 13000 Per Kilo',
     imageAsset: 'assets/img/papaya.jpg',
     imageUrls: [
-      'https://img.etimg.com/thumb/width-1200,height-1200,imgsize-91748,resizemode-75,msid-97952387/magazines/panache/add-papaya-to-your-plate-the-humble-fruit-aids-weight-loss-prevents-diabetes-reduces-cholesterol.jpg',
+      'https://www.treedom.net/_next/image?url=https%3A%2F%2Fassets.treedom.net%2Fimage%2Fupload%2Fs--645JC7K---%2Fc_limit%2Cf_auto%2Fv1%2Fscientific_specie-gallery%2Fm%2Fd899172e03e4c4b0715fc1741e9ff822.jpg&w=3840&q=75',
       'https://www.treedom.net/_next/image?url=https%3A%2F%2Fassets.treedom.net%2Fimage%2Fupload%2Fs--645JC7K---%2Fc_limit%2Cf_auto%2Fv1%2Fscientific_specie-gallery%2Fm%2Fd899172e03e4c4b0715fc1741e9ff822.jpg&w=3840&q=75',
       'https://cdn.wikifarmer.com/wp-content/uploads/2023/10/Harvest-yield-1.png',
     ],
